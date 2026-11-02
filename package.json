@@ -1,0 +1,8 @@
+{
+    "name": "math-rope-rumble",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "test": "node --test tests/js/game-core.test.mjs tests/js/service-worker.test.mjs tests/js/appearance.test.mjs tests/js/background-music.test.mjs"
+    }
+}

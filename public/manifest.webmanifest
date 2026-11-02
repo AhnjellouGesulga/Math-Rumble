@@ -1,0 +1,35 @@
+{
+    "id": "./",
+    "name": "Math Rope Rumble",
+    "short_name": "Rope Rumble",
+    "description": "Grab a friend and pull with your brain! A colorful two-player math tug-of-war, ready to play offline.",
+    "lang": "en",
+    "start_url": "./?source=installed",
+    "scope": "./",
+    "display": "standalone",
+    "orientation": "any",
+    "background_color": "#f4f0ff",
+    "theme_color": "#7950e8",
+    "categories": ["education", "games"],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icons/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "icons/icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
